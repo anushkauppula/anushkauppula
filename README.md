@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anushka Uppula
 
-- 🎓 I’m pursuing my **Master’s in Applied Computer Science** at Northwest Missouri State University.
+- 🎓 I pursued my **Master’s in Applied Computer Science** at Northwest Missouri State University.
 - 💼 I have **7 years of experience** as a Software Engineer working with .NET, SQL Server, cloud technologies, and enterprise applications.
 - 🤝 I’m looking to collaborate on **Java, .NET, full-stack, cloud**, and **real-world problem-solving** projects.
 - ⚙️ I’m exploring **DevOps practices**, CI/CD pipelines, automation, and website hosting strategies.
